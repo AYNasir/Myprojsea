@@ -1,2 +1,2 @@
-# Myprojsea
+# projsea
 Seawater composition and effects
